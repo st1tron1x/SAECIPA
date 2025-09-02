@@ -1,0 +1,14 @@
+[31-Jan-2025 14:30:09 UTC] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/s5rsc8jow2gk/public_html/saecipa1/inicioSesion/InicioSesion.php on line 3
+[31-Jan-2025 14:30:09 UTC] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/s5rsc8jow2gk/public_html/saecipa1/inicioSesion/InicioSesion.php on line 3
+[31-Jan-2025 14:30:09 UTC] PHP Notice:  Undefined variable: conexion in /home/s5rsc8jow2gk/public_html/saecipa1/inicioSesion/InicioSesion.php on line 14
+[31-Jan-2025 14:30:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/s5rsc8jow2gk/public_html/saecipa1/inicioSesion/InicioSesion.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/s5rsc8jow2gk/public_html/saecipa1/inicioSesion/InicioSesion.php on line 14
+[31-Jan-2025 14:30:24 UTC] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/s5rsc8jow2gk/public_html/saecipa1/inicioSesion/InicioSesion.php on line 3
+[31-Jan-2025 14:30:24 UTC] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/s5rsc8jow2gk/public_html/saecipa1/inicioSesion/InicioSesion.php on line 3
+[31-Jan-2025 14:30:24 UTC] PHP Notice:  Undefined variable: conexion in /home/s5rsc8jow2gk/public_html/saecipa1/inicioSesion/InicioSesion.php on line 14
+[31-Jan-2025 14:30:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/s5rsc8jow2gk/public_html/saecipa1/inicioSesion/InicioSesion.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/s5rsc8jow2gk/public_html/saecipa1/inicioSesion/InicioSesion.php on line 14

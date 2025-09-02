@@ -1,0 +1,5 @@
+[13-Nov-2024 21:13:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actualizacion_crm.tbl_equipo' doesn't exist in /home/s5rsc8jow2gk/public_html/saecipa/admin/secciones/equipo/index.php:32
+Stack trace:
+#0 /home/s5rsc8jow2gk/public_html/saecipa/admin/secciones/equipo/index.php(32): PDOStatement->execute()
+#1 {main}
+  thrown in /home/s5rsc8jow2gk/public_html/saecipa/admin/secciones/equipo/index.php on line 32

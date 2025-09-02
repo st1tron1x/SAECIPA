@@ -1,0 +1,29 @@
+[13-Nov-2024 21:01:04 UTC] PHP Notice:  Undefined variable: conexion in /home/s5rsc8jow2gk/public_html/saecipa/login.php on line 13
+[13-Nov-2024 21:01:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/s5rsc8jow2gk/public_html/saecipa/login.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/s5rsc8jow2gk/public_html/saecipa/login.php on line 13
+[14-Nov-2024 21:23:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'login' in 'where clause' in /home/s5rsc8jow2gk/public_html/saecipa/login.php:15
+Stack trace:
+#0 /home/s5rsc8jow2gk/public_html/saecipa/login.php(15): PDOStatement->execute()
+#1 {main}
+  thrown in /home/s5rsc8jow2gk/public_html/saecipa/login.php on line 15
+[14-Nov-2024 21:23:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'login' in 'where clause' in /home/s5rsc8jow2gk/public_html/saecipa/login.php:15
+Stack trace:
+#0 /home/s5rsc8jow2gk/public_html/saecipa/login.php(15): PDOStatement->execute()
+#1 {main}
+  thrown in /home/s5rsc8jow2gk/public_html/saecipa/login.php on line 15
+[14-Nov-2024 21:24:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'login' in 'where clause' in /home/s5rsc8jow2gk/public_html/saecipa/login.php:15
+Stack trace:
+#0 /home/s5rsc8jow2gk/public_html/saecipa/login.php(15): PDOStatement->execute()
+#1 {main}
+  thrown in /home/s5rsc8jow2gk/public_html/saecipa/login.php on line 15
+[14-Nov-2024 21:24:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'login' in 'where clause' in /home/s5rsc8jow2gk/public_html/saecipa/login.php:15
+Stack trace:
+#0 /home/s5rsc8jow2gk/public_html/saecipa/login.php(15): PDOStatement->execute()
+#1 {main}
+  thrown in /home/s5rsc8jow2gk/public_html/saecipa/login.php on line 15
+[31-Jan-2025 14:06:34 UTC] PHP Warning:  include(conexion/connection.php): failed to open stream: No such file or directory in /home/s5rsc8jow2gk/public_html/saecipa1/index.php on line 2
+[31-Jan-2025 14:06:34 UTC] PHP Warning:  include(): Failed opening 'conexion/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/s5rsc8jow2gk/public_html/saecipa1/index.php on line 2
+[31-Jan-2025 14:10:30 UTC] PHP Warning:  include(conexion/connection.php): failed to open stream: No such file or directory in /home/s5rsc8jow2gk/public_html/saecipa1/index.php on line 2
+[31-Jan-2025 14:10:30 UTC] PHP Warning:  include(): Failed opening 'conexion/connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/s5rsc8jow2gk/public_html/saecipa1/index.php on line 2
